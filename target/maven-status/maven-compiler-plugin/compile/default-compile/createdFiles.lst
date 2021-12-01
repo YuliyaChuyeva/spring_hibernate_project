@@ -1,0 +1,14 @@
+org\example\controller\MyController.class
+org\example\dao\OverviewDAO.class
+org\example\service\OverviewService.class
+org\example\configuration\MyWebInitializer.class
+org\example\service\OverviewServiceImpl.class
+org\example\service\UserServiceImpl.class
+org\example\configuration\MyConfig.class
+org\example\entity\User.class
+org\example\dao\UserDAO.class
+org\example\dao\OverviewDAOImpl.class
+org\example\entity\Authority.class
+org\example\entity\Overview.class
+org\example\service\UserService.class
+org\example\dao\UserDAOImpl.class
